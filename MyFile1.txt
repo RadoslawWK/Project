@@ -1,4 +1,5 @@
 first line
 fixing bug
 second line
+third line
 implementing new feature...
