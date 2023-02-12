@@ -5,3 +5,9 @@ dwa
 trzy
 
 cztery
+pięć
+
+sześć
+
+siedem
+
