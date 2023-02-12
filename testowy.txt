@@ -5,3 +5,8 @@ zapis
 trzy99
 zapis
 cztery99
+pięć
+
+sześć
+
+siedem
