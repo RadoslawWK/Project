@@ -1,7 +1,7 @@
-jeden
+jeden99
 zapis
-dwa
+dwa99
 zapis
-trzy
+trzy99
 zapis
-cztery
+cztery99
